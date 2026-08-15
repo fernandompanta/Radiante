@@ -1,3 +1,5 @@
+//Revisa O.S AT versão 1.0
+
 const { chromium } = require('playwright');
 
 async function main() {
